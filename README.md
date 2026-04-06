@@ -1,16 +1,22 @@
-## Hi there 👋
+# Emmanuel Garcia - Data Analyst
 
-<!--
-**EmmanuelGarciaVega/EmmanuelGarciaVega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey 👋🏻
+- 💼 I'm open to work
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Technical Toolbox 🛠️
+- 📊 **Data Analysis**: SQL, Python (Pandas, NumPy), Excel, Power BI, Tableau.
+
+- 💻 **Full Stack**: Linux, Python, S.O.L.I.D., Git/GitHub... *WIP*
+
+- 📋 **Business & Marketing**: SEO, Lead Generation, CRM Management, and Business Administration.
+
+
+## Let's Connect 🤝🏼
+- 📍 Location: Heredia, Costa Rica.
+
+- 💼 LinkedIn: linkedin.com/in/emmanuel-garcía-a42447276.
+
+- 📧 Email: emmanuelgv4812@gmail.com.
