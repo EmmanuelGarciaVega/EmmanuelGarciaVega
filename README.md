@@ -9,7 +9,7 @@
 ## Technical Toolbox 🛠️
 - 📊 **Data Analysis**: SQL, Python (Pandas, NumPy), Excel, Power BI, Tableau.
 
-- 💻 **Full Stack**: Linux, Python, S.O.L.I.D., Git/GitHub... *WIP*
+- 💻 **Full Stack**: Linux, Python, S.O.L.I.D., Git/GitHub.  🚧🇼🇮🇵🚧
 
 - 📋 **Business & Marketing**: SEO, Lead Generation, CRM Management, and Business Administration.
 
