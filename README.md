@@ -17,6 +17,6 @@
 ## Let's Connect 🤝🏼
 - 📍 Location: Heredia, Costa Rica.
 
-- 💼 LinkedIn: linkedin.com/in/emmanuel-garcía-a42447276.
+- 💼 LinkedIn: [Profile](linkedin.com/in/emmanuel-garcía-a42447276).
 
 - 📧 Email: emmanuelgv4812@gmail.com.
